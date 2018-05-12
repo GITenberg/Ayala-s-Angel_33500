@@ -25,6 +25,8 @@ description: "Ayala's Angel is a novel written by English author Anthony Trollop
   \ issue, between 6 November 1880 and 23 July 1881, for which illustrations were\
   \ drawn, which were left out of the British publication, released in May 1882.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33500#Ayala-s-Angel
 gutenberg_issued: '2010-08-25'
 gutenberg_type: Text
 identifiers:
