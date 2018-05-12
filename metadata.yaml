@@ -1,0 +1,44 @@
+_repo: Ayala-s-Angel_33500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Ayala's Angel is a novel written by English author Anthony Trollope,\
+  \ between 25 April and 24 September 1878, although it was not published for two\
+  \ years. It was written as a stand-alone novel rather than as part of a series,\
+  \ though several of the minor characters appear in other novels by Trollope.\nThe\
+  \ plot focuses on two orphaned sisters, Lucy and Ayala Dormer, Ayala especially,\
+  \ and their trials, with first their relatives, and then of the heart, though as\
+  \ in most Trollope novels, pages are given over to subplots related to the main\
+  \ plot.\nDue to a lack of success in his immediately preceding novels, Trollope\
+  \ had difficulty publishing Ayala's Angel. It was first published in the United\
+  \ States, in the periodical Cincinnati Commercial, which, as was the usual custom\
+  \ for novels at the time, released it in increments, probably of four chapters per\
+  \ issue, between 6 November 1880 and 23 July 1881, for which illustrations were\
+  \ drawn, which were left out of the British publication, released in May 1882.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33500'
+  wikidata: Q4830860
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Courtship -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Ayala's Angel
+url: http://www.gutenberg.org/ebooks/33500
+wikipedia:
+- https://en.wikipedia.org/wiki/Ayala%27s_Angel
